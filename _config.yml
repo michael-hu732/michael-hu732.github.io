@@ -1,5 +1,1 @@
-remote_theme: pages-themes/primer@v0.6.0
-plugins:
-- jekyll-remote-theme
-title: Michael's Website
-description: My personal website
+theme: jekyll-theme-primer
